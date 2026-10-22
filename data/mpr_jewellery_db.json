@@ -1,0 +1,1010 @@
+{
+  "ownerAccount": {
+    "email": "bhavyakthmadanambeti@gmail.com",
+    "passwordHash": "bhavyakth",
+    "requiresPasswordChange": true,
+    "updatedAt": "2026-10-22T03:38:04.630Z"
+  },
+  "brandSettings": {
+    "brandName": "MPR JEWELLERY",
+    "tagline": "Timeless Heritage, Pure Elegance & Royal Indian Craftsmanship",
+    "logoText": "MPR",
+    "logoSubtext": "JEWELLERY",
+    "primaryColor": "#23140C",
+    "accentColor": "#C69A39"
+  },
+  "contactSettings": {
+    "phone": "+91 94402 18999",
+    "whatsapp": "+91 94402 18999",
+    "email": "bhavyakthmadanambeti@gmail.com",
+    "address": "MPR Jewellers Grand Showroom, Main Bazaar Road, Near Clock Tower",
+    "cityStateZip": "Hyderabad, Telangana 500002, India",
+    "openingHours": "Mon - Sun: 10:30 AM to 9:00 PM (IST)",
+    "supportMessage": "Namaste! We are here to assist with gold rates, bridal jewellery customization, and order tracking."
+  },
+  "pricingSettings": {
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "deliveryCharge": 150,
+    "freeDeliveryThreshold": 10000,
+    "taxMode": "inclusive",
+    "taxRatePercent": 3,
+    "taxLabel": "GST (3% Included)",
+    "goldRate24KPerGram": 7850,
+    "goldRate22KPerGram": 7200,
+    "goldRate18KPerGram": 5950,
+    "silverRatePerGram": 95,
+    "diamondRatePerCaratBaseline": 85000,
+    "diamondRateDetails": "Benchmark for VVS1-VS2 / E-G Color certified natural diamonds. Purity, cut & 4Cs determine final price.",
+    "ratesLastUpdated": "2026-10-22T04:03:28.060Z",
+    "ratesSource": "Owner Updated",
+    "trends": {
+      "gold24k": "up",
+      "gold22k": "up",
+      "gold18k": "neutral",
+      "silver": "down",
+      "diamond": "neutral",
+      "gold24kChange": 35,
+      "gold22kChange": 30,
+      "gold18kChange": 0,
+      "silverChange": -0.5
+    }
+  },
+  "upiSettings": {
+    "enabled": true,
+    "upiId": "mprjewellers@icici",
+    "payeeName": "MPR JEWELLERY STORE",
+    "phoneNumber": "+91 94402 18999",
+    "merchantCode": "5944",
+    "maxAmountLimit": 500000,
+    "instructions": "1. Scan the QR code or click Open UPI App.\n2. Complete payment in PhonePe / Google Pay / Paytm.\n3. Copy the 12-digit UTR / UPI Ref ID and submit below for instant verification.",
+    "supportMessage": "For UPI payment assistance or high-value RTGS transfers, WhatsApp our accounts desk at +91 94402 18999."
+  },
+  "generalSettings": {
+    "storeName": "MPR JEWELLERY",
+    "isStoreOpen": true,
+    "maintenanceMode": false,
+    "allowGuestCheckout": true,
+    "allowCustomerRegistration": true,
+    "aboutUsSummary": "Founded on four decades of unwavering trust and purity, MPR JEWELLERY creates heirloom masterpieces celebrating royal Indian craftsmanship, certified diamonds, and BIS 916 hallmarked pure gold.",
+    "heritageText": "Every piece that leaves our workshop carries the sacred mark of BIS Hallmark certification, precision laser engraving, and generations of artisanal perfection.",
+    "termsAndConditions": "All gold jewellery sold at MPR JEWELLERY is BIS 916 Hallmarked. Weight, purity, and certified gemstone certificates are included in the tamper-proof delivery box. Orders confirmed via verified UPI payment are dispatched within 24-48 business hours.",
+    "privacyPolicy": "We respect your privacy. Customer contact details and addresses are used solely for processing orders, delivery updates, and luxury concierge support. Payment information is securely verified via standard Indian banking protocols.",
+    "shippingPolicy": "Free insured pan-India delivery on orders above ₹10,000 via BlueDart / BVC Logistics with OTP-verified handover. All shipments are 100% transit insured.",
+    "returnPolicy": "7-day easy exchange guarantee. Lifetime buyback and gold exchange guarantee at current market rates as per BIS hallmark weight and purity inspection."
+  },
+  "homepageSettings": {
+    "hero": {
+      "collectionBadge": "ROYAL HERITAGE FESTIVE COLLECTION 2026",
+      "smallHeading": "Timeless Indian Luxury",
+      "mainHeading": "Elegance Cast In Pure Gold & Certified Diamonds",
+      "subtitle": "Experience exquisite handcrafted bridal sets, 22K temple jewellery, and modern diamond solitaires crafted for life’s grandest celebrations.",
+      "buttonText": "Explore Collections",
+      "buttonLink": "#shop",
+      "secondaryButtonText": "Interactive 3D Lounge",
+      "imageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1600&q=80",
+      "mobileImageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=900&q=80"
+    },
+    "announcementText": "✨ Akshay Tritiya & Wedding Season Specials: 0% Making Charge on Selected 22K Gold Sets | Insured Pan-India Free Delivery on Orders Over ₹10,000",
+    "announcementEnabled": true,
+    "promotionalBanners": [
+      {
+        "id": "ban-001",
+        "title": "Vivaha Bridal Muhurtham Showcase",
+        "subtitle": "Authentic 22K BIS 916 Nakshi temple bridal sets with zero making charge on selected sets.",
+        "badgeText": "FESTIVE WEDDING SPECIAL",
+        "imageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1400&q=80",
+        "mobileImageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+        "buttonText": "Shop Bridal Sets",
+        "linkUrl": "#/category/wedding",
+        "isActive": true,
+        "order": 1
+      },
+      {
+        "id": "ban-002",
+        "title": "Certified Solitaire Diamond Gala",
+        "subtitle": "Rare VVS-VS certified natural diamonds with laser inscribed certificates and international grading.",
+        "badgeText": "IGI / SGL CERTIFIED",
+        "imageUrl": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1400&q=80",
+        "mobileImageUrl": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+        "buttonText": "Explore Solitaires",
+        "linkUrl": "#/category/diamond",
+        "isActive": true,
+        "order": 2
+      },
+      {
+        "id": "ban-003",
+        "title": "Pure 925 Sterling Silver & Mandir Sanctum",
+        "subtitle": "Handcrafted antique ghungroo payals, bridal silver accessories, and 999 fine silver puja sets.",
+        "badgeText": "999 FINE SILVER",
+        "imageUrl": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=1400&q=80",
+        "mobileImageUrl": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
+        "buttonText": "View Silver Articles",
+        "linkUrl": "#/category/silver",
+        "isActive": true,
+        "order": 3
+      }
+    ],
+    "sections": [
+      {
+        "id": "hero",
+        "name": "Hero Banner",
+        "enabled": true,
+        "order": 1
+      },
+      {
+        "id": "categories",
+        "name": "Shop By Category",
+        "enabled": true,
+        "order": 2
+      },
+      {
+        "id": "threed_lounge",
+        "name": "3D Interactive Jewellery Lounge",
+        "enabled": true,
+        "order": 3
+      },
+      {
+        "id": "featured",
+        "name": "Curated Masterpieces",
+        "enabled": true,
+        "order": 4
+      },
+      {
+        "id": "gold_special",
+        "name": "22K Hallmarked Gold Collections",
+        "enabled": true,
+        "order": 5
+      },
+      {
+        "id": "diamond_special",
+        "name": "Certified Solitaires & Diamonds",
+        "enabled": true,
+        "order": 6
+      },
+      {
+        "id": "silver_special",
+        "name": "925 Sterling Silver & Puja Articles",
+        "enabled": true,
+        "order": 7
+      },
+      {
+        "id": "craftsmanship",
+        "name": "Heritage Craftsmanship & Trust",
+        "enabled": true,
+        "order": 8
+      },
+      {
+        "id": "reviews",
+        "name": "Customer Testimonials",
+        "enabled": true,
+        "order": 9
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "cat-all",
+      "name": "All Treasures",
+      "slug": "all",
+      "description": "Explore the complete royal treasury of MPR JEWELLERY masterpieces.",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 16
+    },
+    {
+      "id": "cat-gold",
+      "name": "22K Gold",
+      "slug": "gold",
+      "description": "Authentic 22K (916) pure gold crafted by master karigars.",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 8
+    },
+    {
+      "id": "cat-diamond",
+      "name": "Diamonds",
+      "slug": "diamond",
+      "description": "VVS/VS clarity certified natural diamonds set in white and rose gold.",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 5
+    },
+    {
+      "id": "cat-silver",
+      "name": "925 Silver",
+      "slug": "silver",
+      "description": "925 sterling silver ornaments, antique payals, and fine silver.",
+      "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 4
+    },
+    {
+      "id": "cat-gold-rings",
+      "name": "Gold Rings",
+      "slug": "gold-rings",
+      "description": "Handcrafted 22K and 18K gold bands, solitaires, and cocktail rings.",
+      "image": "https://images.unsplash.com/photo-1603561596112-0a132b757442?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 4
+    },
+    {
+      "id": "cat-silver-rings",
+      "name": "Silver Rings",
+      "slug": "silver-rings",
+      "description": "Pure 925 sterling silver bands, zircon solitaires, and astrological rings.",
+      "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 3
+    },
+    {
+      "id": "cat-necklaces",
+      "name": "Necklaces & Chokers",
+      "slug": "necklaces",
+      "description": "Royal bridal chokers, temple kasu malas, and heritage haarams.",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 6
+    },
+    {
+      "id": "cat-chains",
+      "name": "Chains & Mangalsutras",
+      "slug": "chains",
+      "description": "18K and 22K daily wear gold chains, Italian laser links, and diamond mangalsutras.",
+      "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 4
+    },
+    {
+      "id": "cat-earrings",
+      "name": "Earrings & Jhumkas",
+      "slug": "earrings",
+      "description": "Opulent antique nakshi jhumkas, chandelier drops, and diamond studs.",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 5
+    },
+    {
+      "id": "cat-bangles",
+      "name": "Bangles & Kadas",
+      "slug": "bangles",
+      "description": "Nizam peacocks, jaali filigree kadas, and traditional bridal valayal sets.",
+      "image": "https://images.unsplash.com/photo-1611591475870-87729eead1e8?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 5
+    },
+    {
+      "id": "cat-bracelets",
+      "name": "Bracelets",
+      "slug": "bracelets",
+      "description": "Contemporary tennis diamond bracelets and flexible gold charm bracelets.",
+      "image": "https://images.unsplash.com/photo-1611591475870-87729eead1e8?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 3
+    },
+    {
+      "id": "cat-pendants",
+      "name": "Pendants & Lockets",
+      "slug": "pendants",
+      "description": "Emerald and diamond halos, Ganesha deities, and celestial medallions.",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 4
+    },
+    {
+      "id": "cat-wedding",
+      "name": "Wedding Jewellery",
+      "slug": "wedding",
+      "description": "Grand royal vivaha trousseau, Polki kundan chokers, and bridal waistbands.",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 6
+    },
+    {
+      "id": "cat-traditional",
+      "name": "Traditional Nakshi",
+      "slug": "traditional",
+      "description": "Authentic Chola temple deities, Vadanam, and antique matte gold heirlooms.",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 5
+    },
+    {
+      "id": "cat-puja",
+      "name": "Coins & Puja Silver",
+      "slug": "puja",
+      "description": "999 pure fine silver puja thalis, kalashams, and 24K gold investment coins.",
+      "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "Royal Bridal Kundan & Polki Choker Set",
+      "slug": "royal-bridal-kundan-polki-choker",
+      "sku": "MPR-GOLD-001",
+      "category": "bridal",
+      "metal": "gold",
+      "purity": "22K (916 Hallmarked)",
+      "price": 245000,
+      "originalPrice": 265000,
+      "grossWeightGrams": 48.6,
+      "netWeightGrams": 42,
+      "stoneWeightCarats": 33,
+      "description": "An ethereal heirloom bridal choker handcrafted with uncut Polki diamonds, rich ruby-emerald meenakari back detailing, and clusters of natural South Sea pearls. Includes matching chandelier jhumkas.",
+      "specifications": {
+        "dimensions": "Choker length 18cm adjustable dori, Earrings 6.5cm",
+        "certificate": "Government Certified BIS 916 Hallmark & Gemological Card",
+        "makingCharge": "Special Festive 12% (Included)",
+        "occasion": "Grand Wedding, Reception, Vivaha Muhurtham",
+        "designType": "Rajputana & Nizam Royal Heritage"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1611591475870-87729eead1e8?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 4,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isArchived": false,
+      "has3DModel": true,
+      "model3DType": "pendant",
+      "tags": [
+        "bridal",
+        "kundan",
+        "22k",
+        "wedding",
+        "choker"
+      ],
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-02-15T10:00:00.000Z"
+    },
+    {
+      "id": "prod-002",
+      "name": "Divine Temple Lakshmi Kasu Mala",
+      "slug": "divine-temple-lakshmi-kasu-mala",
+      "sku": "MPR-GOLD-002",
+      "category": "gold",
+      "metal": "gold",
+      "purity": "22K (916 Hallmarked)",
+      "price": 318500,
+      "originalPrice": 335000,
+      "grossWeightGrams": 45.2,
+      "netWeightGrams": 45.2,
+      "description": "Sacred South Indian temple antique necklace engraved with auspicious Lakshmi coins (Kasu) flanked by embossed peacock motifs and crowned with fine cabochon ruby accents.",
+      "specifications": {
+        "dimensions": "Length 22 inches with adjustable gold links",
+        "certificate": "BIS 916 Hallmarked Pure Gold with HUID",
+        "makingCharge": "14% Artisanal Karigar Charge (Included)",
+        "occasion": "Auspicious Festivals, Muhurtham, Temple Visit",
+        "designType": "Authentic Chola Temple Nakshi Art"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 3,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isArchived": false,
+      "tags": [
+        "temple",
+        "kasu-mala",
+        "gold",
+        "22k",
+        "antique"
+      ],
+      "createdAt": "2026-01-15T10:00:00.000Z",
+      "updatedAt": "2026-02-18T10:00:00.000Z"
+    },
+    {
+      "id": "prod-003",
+      "name": "Eternal Solitaire Diamond Ring (1.20 Carat)",
+      "slug": "eternal-solitaire-diamond-ring",
+      "sku": "MPR-DIA-001",
+      "category": "rings",
+      "metal": "diamond",
+      "purity": "18K (750)",
+      "price": 185000,
+      "originalPrice": 205000,
+      "grossWeightGrams": 4.8,
+      "netWeightGrams": 4.56,
+      "stoneWeightCarats": 1.2,
+      "description": "A breathtaking 1.20 carat certified round brilliant diamond of exceptional VVS1 clarity and E-color, mounted in a handcrafted six-prong platinum crown atop an 18K rose gold micro-pavé band.",
+      "specifications": {
+        "dimensions": "Customizable Ring Size 10 to 22 (Indian Standard)",
+        "certificate": "IGI Certified Diamond with Laser Inscribed Number",
+        "makingCharge": "Flat ₹6,500 (Included in final price)",
+        "occasion": "Engagement, Anniversary, Luxury Milestone",
+        "designType": "Classic Tiffany-Inspired Six Prong Solitaire"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1603561596112-0a132b757442?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 5,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isArchived": false,
+      "has3DModel": true,
+      "model3DType": "ring",
+      "tags": [
+        "solitaire",
+        "diamond",
+        "ring",
+        "engagement",
+        "18k"
+      ],
+      "createdAt": "2026-01-20T10:00:00.000Z",
+      "updatedAt": "2026-02-20T10:00:00.000Z"
+    },
+    {
+      "id": "prod-004",
+      "name": "Heritage Nakshi Antique Jhumkas",
+      "slug": "heritage-nakshi-antique-jhumkas",
+      "sku": "MPR-GOLD-003",
+      "category": "gold",
+      "metal": "gold",
+      "purity": "22K (916 Hallmarked)",
+      "price": 210000,
+      "originalPrice": 228000,
+      "grossWeightGrams": 28.5,
+      "netWeightGrams": 28.5,
+      "description": "Opulent traditional South Indian dome jhumkas featuring sculpted dancing Apsara figurines, floral filigree canopy, and a cascade of miniature gold ghungroos.",
+      "specifications": {
+        "dimensions": "Length 7.2 cm, Width 3.4 cm, Screw back with support",
+        "certificate": "BIS 916 Hallmark with Unique HUID",
+        "makingCharge": "13% Traditional Craftsmanship",
+        "occasion": "Wedding, Seemantham, Diwali Celebration",
+        "designType": "Antique Nakshi Temple Gold"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 4,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isArchived": false,
+      "tags": [
+        "earrings",
+        "jhumka",
+        "antique",
+        "22k",
+        "nakshi"
+      ],
+      "createdAt": "2026-01-25T10:00:00.000Z",
+      "updatedAt": "2026-02-21T10:00:00.000Z"
+    },
+    {
+      "id": "prod-005",
+      "name": "Aura Diamond Mangalsutra",
+      "slug": "aura-diamond-mangalsutra",
+      "sku": "MPR-DIA-002",
+      "category": "diamond",
+      "metal": "diamond",
+      "purity": "18K (750)",
+      "price": 88000,
+      "originalPrice": 99000,
+      "grossWeightGrams": 8.2,
+      "netWeightGrams": 8,
+      "stoneWeightCarats": 0.65,
+      "description": "A contemporary modern mangalsutra featuring certified round brilliant diamonds set in an infinity pendant suspended from a sacred dual-row black bead and gold chain.",
+      "specifications": {
+        "dimensions": "Chain Length 18 inches with 2-inch extension",
+        "certificate": "SGL Certified Natural Diamonds (VVS Clarity, G-H Color)",
+        "makingCharge": "Inclusive",
+        "occasion": "Daily Wear, Auspicious Gift, Modern Bride",
+        "designType": "Contemporary Minimalist Mangalsutra"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1611591475870-87729eead1e8?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 6,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isArchived": false,
+      "tags": [
+        "mangalsutra",
+        "diamond",
+        "daily-wear",
+        "18k"
+      ],
+      "createdAt": "2026-02-01T10:00:00.000Z",
+      "updatedAt": "2026-02-22T10:00:00.000Z"
+    },
+    {
+      "id": "prod-006",
+      "name": "Imperial Peacock Enamel Gold Kada / Bangle",
+      "slug": "imperial-peacock-enamel-gold-kada",
+      "sku": "MPR-GOLD-004",
+      "category": "bridal",
+      "metal": "gold",
+      "purity": "22K (916 Hallmarked)",
+      "price": 195000,
+      "originalPrice": 215000,
+      "grossWeightGrams": 28.2,
+      "netWeightGrams": 28.2,
+      "description": "Stunning openable royal kada with intricately carved peacock terminals, royal blue & emerald green hot enamel work, and screw lock mechanism.",
+      "specifications": {
+        "dimensions": "Size 2.4, 2.6, 2.8 available with secure hinge screw",
+        "certificate": "BIS 916 Hallmarked Pure Gold",
+        "makingCharge": "12% Handcrafted Meenakari",
+        "occasion": "Bridal Sangeet, Festive Pooja, Royal Parties",
+        "designType": "Jaipuri Meenakari & Jaali Emboss"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1611591475870-87729eead1e8?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 4,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isArchived": false,
+      "has3DModel": true,
+      "model3DType": "bangle",
+      "tags": [
+        "bangle",
+        "kada",
+        "gold",
+        "peacock",
+        "meenakari"
+      ],
+      "createdAt": "2026-02-05T10:00:00.000Z",
+      "updatedAt": "2026-02-23T10:00:00.000Z"
+    },
+    {
+      "id": "prod-007",
+      "name": "Celestial Emerald & Diamond Pendant Set",
+      "slug": "celestial-emerald-diamond-pendant",
+      "sku": "MPR-DIA-003",
+      "category": "diamond",
+      "metal": "diamond",
+      "purity": "18K (750)",
+      "price": 145000,
+      "originalPrice": 160000,
+      "grossWeightGrams": 10.4,
+      "netWeightGrams": 9.8,
+      "stoneWeightCarats": 1.45,
+      "description": "A genuine 2.50ct natural Zambian oval emerald haloed by 1.45ct brilliant cut diamonds in an 18K white gold pendant with matching drop earrings.",
+      "specifications": {
+        "dimensions": "Pendant 3.2cm, Studs 1.5cm",
+        "certificate": "IGI Certified Diamond & Natural Gemstone Certificate",
+        "makingCharge": "Included",
+        "occasion": "Anniversary, Gala, Formal Evening",
+        "designType": "Art Deco Royal Halo"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 2,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": false,
+      "isArchived": false,
+      "tags": [
+        "emerald",
+        "diamond",
+        "pendant",
+        "white-gold"
+      ],
+      "createdAt": "2026-02-08T10:00:00.000Z",
+      "updatedAt": "2026-02-24T10:00:00.000Z"
+    },
+    {
+      "id": "prod-008",
+      "name": "Shimmering 925 Sterling Silver Ghungroo Payal (Pair)",
+      "slug": "sterling-silver-ghungroo-payal",
+      "sku": "MPR-SLV-001",
+      "category": "silver",
+      "metal": "silver",
+      "purity": "925 Sterling Silver",
+      "price": 12500,
+      "originalPrice": 14500,
+      "grossWeightGrams": 64,
+      "netWeightGrams": 64,
+      "description": "Traditional handcrafted 925 sterling silver bridal anklets with melodious musical ghungroos and antique oxidised filigree finish.",
+      "specifications": {
+        "dimensions": "Length 10.5 inches with S-hook closure (Pair of 2)",
+        "certificate": "925 Silver Authenticity Stamp & Card",
+        "makingCharge": "Included",
+        "occasion": "Bridal Shringar, Karva Chauth, Traditional Dance",
+        "designType": "Rajasthani Royal Payal"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 8,
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isArchived": false,
+      "tags": [
+        "silver",
+        "payal",
+        "anklet",
+        "925",
+        "bridal"
+      ],
+      "createdAt": "2026-02-10T10:00:00.000Z",
+      "updatedAt": "2026-02-25T10:00:00.000Z"
+    },
+    {
+      "id": "prod-009",
+      "name": "Devi Kamakshi Pure Silver Puja Thali Set (250g)",
+      "slug": "kamakshi-pure-silver-puja-thali-set",
+      "sku": "MPR-SLV-002",
+      "category": "silver",
+      "metal": "silver",
+      "purity": "999 Fine Silver",
+      "price": 34000,
+      "originalPrice": 38000,
+      "grossWeightGrams": 250,
+      "netWeightGrams": 250,
+      "description": "A complete 7-piece divine puja set made in 999 pure fine silver comprising an engraved Thali, Diya, Bell (Ghanta), Panchapatra, Udharani, and Kumkum bowls.",
+      "specifications": {
+        "dimensions": "Thali diameter 9.5 inches, weight 250 grams",
+        "certificate": "999 Fine Silver Purity Certificate with Assay stamp",
+        "makingCharge": "Included",
+        "occasion": "Griha Pravesham, Wedding Gift, Daily Mandir Puja",
+        "designType": "Auspicious Kalash & Lotus Carving"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 5,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isArchived": false,
+      "tags": [
+        "silver",
+        "puja",
+        "999-silver",
+        "thali",
+        "mandir"
+      ],
+      "createdAt": "2026-02-12T10:00:00.000Z",
+      "updatedAt": "2026-02-25T10:00:00.000Z"
+    },
+    {
+      "id": "prod-010",
+      "name": "Sparkling Princess Cut Diamond Studs",
+      "slug": "sparkling-princess-cut-diamond-studs",
+      "sku": "MPR-DIA-004",
+      "category": "diamond",
+      "metal": "diamond",
+      "purity": "18K (750)",
+      "price": 76000,
+      "originalPrice": 85000,
+      "grossWeightGrams": 3.2,
+      "netWeightGrams": 3.04,
+      "stoneWeightCarats": 0.8,
+      "description": "Brilliant pair of princess cut natural diamonds (0.80ct total weight) set in 18K white gold four-prong basket with secure screw-backs.",
+      "specifications": {
+        "dimensions": "4.8mm each, 18K white gold",
+        "certificate": "IGI Certified (VS1 Clarity, F-Color)",
+        "makingCharge": "Included",
+        "occasion": "Office, Luxury Daily Wear, Gifting",
+        "designType": "Princess Cut Solitaire Studs"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 7,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isArchived": false,
+      "tags": [
+        "diamond",
+        "studs",
+        "earrings",
+        "princess-cut"
+      ],
+      "createdAt": "2026-02-15T10:00:00.000Z",
+      "updatedAt": "2026-02-26T10:00:00.000Z"
+    },
+    {
+      "id": "prod-011",
+      "name": "Modern Minimalist 18K Gold Floral Chain",
+      "slug": "modern-minimalist-18k-gold-floral-chain",
+      "sku": "MPR-GOLD-005",
+      "category": "gold",
+      "metal": "gold",
+      "purity": "18K (750)",
+      "price": 84000,
+      "originalPrice": 92000,
+      "grossWeightGrams": 12,
+      "netWeightGrams": 12,
+      "description": "Contemporary Italian-style laser-cut gold floral link chain crafted in lustrous 18K yellow gold with lobster clasp.",
+      "specifications": {
+        "dimensions": "Length 18 inches with safety hook",
+        "certificate": "BIS 750 Hallmark",
+        "makingCharge": "10% Lightweight Craftsmanship",
+        "occasion": "Festive Everyday, Western Wear, Casual Chic",
+        "designType": "Italian Textured Floral Links"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 6,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isArchived": false,
+      "tags": [
+        "chain",
+        "18k",
+        "gold",
+        "minimalist"
+      ],
+      "createdAt": "2026-02-18T10:00:00.000Z",
+      "updatedAt": "2026-02-26T10:00:00.000Z"
+    },
+    {
+      "id": "prod-012",
+      "name": "Classic Navratna Royal Kada",
+      "slug": "classic-navratna-royal-kada",
+      "sku": "MPR-GOLD-006",
+      "category": "bridal",
+      "metal": "gold",
+      "purity": "22K (916 Hallmarked)",
+      "price": 262000,
+      "originalPrice": 285000,
+      "grossWeightGrams": 35.8,
+      "netWeightGrams": 32,
+      "stoneWeightCarats": 19,
+      "description": "An auspicious Vedic Navratna bangle encrusted with Ruby, Pearl, Coral, Emerald, Yellow Sapphire, Diamond, Blue Sapphire, Hessonite, and Cat’s Eye in pure 22K hallmarked gold.",
+      "specifications": {
+        "dimensions": "Size 2.6 openable Kada with screw lock",
+        "certificate": "BIS 916 Hallmark & 9 Astrological Gemstones Certified",
+        "makingCharge": "Specialist Karigar Jyotish Setting",
+        "occasion": "Spiritual Milestone, Wedding, Royal Regalia",
+        "designType": "Vedic Navratna Heritage"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "stockQuantity": 2,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isArchived": false,
+      "has3DModel": true,
+      "model3DType": "bangle",
+      "tags": [
+        "navratna",
+        "kada",
+        "22k",
+        "gemstones",
+        "vedic"
+      ],
+      "createdAt": "2026-02-20T10:00:00.000Z",
+      "updatedAt": "2026-02-26T10:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "MPR-2026-8901",
+      "customerName": "Ananya Sharma",
+      "customerEmail": "ananya.sharma@example.com",
+      "customerPhone": "+91 98765 12345",
+      "shippingAddress": {
+        "fullName": "Ananya Sharma",
+        "phone": "+91 98765 12345",
+        "email": "ananya.sharma@example.com",
+        "addressLine1": "B-402, Prestige Golf Towers, Outer Ring Road",
+        "addressLine2": "Gachibowli",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500032"
+      },
+      "items": [
+        {
+          "productId": "prod-003",
+          "productName": "Eternal Solitaire Diamond Ring (1.20 Carat)",
+          "productSku": "MPR-DIA-001",
+          "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=600&q=80",
+          "price": 185000,
+          "quantity": 1,
+          "metal": "diamond",
+          "purity": "18K (750)",
+          "selectedSize": "Size 14",
+          "weightGrams": 4.8
+        }
+      ],
+      "subtotal": 185000,
+      "discountAmount": 5000,
+      "couponCode": "ROYAL10",
+      "shippingFee": 0,
+      "taxAmount": 5400,
+      "totalAmount": 185400,
+      "paymentMethod": "UPI",
+      "paymentStatus": "verified",
+      "orderStatus": "processing",
+      "upiPaymentDetails": {
+        "upiId": "mprjewellers@icici",
+        "payeeName": "MPR JEWELLERY STORE",
+        "utrNumber": "608923419082",
+        "paymentNote": "Paid from HDFC Bank via Google Pay for engagement ring",
+        "submittedAt": "2026-02-25T14:30:00.000Z",
+        "verifiedAt": "2026-02-25T14:45:00.000Z"
+      },
+      "trackingDetails": {
+        "carrier": "BlueDart Apex Express",
+        "trackingNumber": "BD948102941IN",
+        "trackingUrl": "https://www.bluedart.com",
+        "shippedDate": "2026-02-26T10:00:00.000Z",
+        "estimatedDelivery": "2026-03-01"
+      },
+      "notes": "Sample verified order for initial dashboard demonstration.",
+      "createdAt": "2026-02-25T14:20:00.000Z",
+      "updatedAt": "2026-02-26T10:00:00.000Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "MPR-2026-8902",
+      "customerName": "Vikramaditya Rao",
+      "customerEmail": "vikram.rao@example.com",
+      "customerPhone": "+91 97012 34567",
+      "shippingAddress": {
+        "fullName": "Vikramaditya Rao",
+        "phone": "+91 97012 34567",
+        "email": "vikram.rao@example.com",
+        "addressLine1": "Villa 12, Jubilee Hills Road No. 36",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500033"
+      },
+      "items": [
+        {
+          "productId": "prod-008",
+          "productName": "Shimmering 925 Sterling Silver Ghungroo Payal (Pair)",
+          "productSku": "MPR-SLV-001",
+          "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=600&q=80",
+          "price": 12500,
+          "quantity": 1,
+          "metal": "silver",
+          "purity": "925 Sterling Silver",
+          "weightGrams": 64
+        }
+      ],
+      "subtotal": 12500,
+      "discountAmount": 500,
+      "couponCode": "WELCOME500",
+      "shippingFee": 0,
+      "taxAmount": 360,
+      "totalAmount": 12360,
+      "paymentMethod": "UPI",
+      "paymentStatus": "submitted_verification",
+      "orderStatus": "pending_verification",
+      "upiPaymentDetails": {
+        "upiId": "mprjewellers@icici",
+        "payeeName": "MPR JEWELLERY STORE",
+        "utrNumber": "608934521099",
+        "paymentNote": "Paid via PhonePe, UTR 608934521099. Kindly verify.",
+        "submittedAt": "2026-02-26T11:15:00.000Z"
+      },
+      "notes": "Sample pending UPI verification in Owner Portal queue.",
+      "createdAt": "2026-02-26T11:10:00.000Z",
+      "updatedAt": "2026-02-26T11:15:00.000Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-001",
+      "fullName": "Ananya Sharma",
+      "email": "ananya.sharma@example.com",
+      "phone": "+91 98765 12345",
+      "savedAddresses": [
+        {
+          "fullName": "Ananya Sharma",
+          "phone": "+91 98765 12345",
+          "email": "ananya.sharma@example.com",
+          "addressLine1": "B-402, Prestige Golf Towers, Outer Ring Road",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "pincode": "500032"
+        }
+      ],
+      "wishlistProductIds": [
+        "prod-001",
+        "prod-004"
+      ],
+      "createdAt": "2026-02-20T10:00:00.000Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-001",
+      "code": "ROYAL10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderValue": 20000,
+      "maxDiscount": 5000,
+      "usageCount": 14,
+      "usageLimit": 100,
+      "isActive": true,
+      "expiresAt": "2026-12-31"
+    },
+    {
+      "id": "coup-002",
+      "code": "WELCOME500",
+      "discountType": "fixed",
+      "discountValue": 500,
+      "minOrderValue": 5000,
+      "usageCount": 28,
+      "usageLimit": 500,
+      "isActive": true,
+      "expiresAt": "2026-12-31"
+    },
+    {
+      "id": "coup-003",
+      "code": "AKSHAYA2000",
+      "discountType": "fixed",
+      "discountValue": 2000,
+      "minOrderValue": 50000,
+      "usageCount": 5,
+      "usageLimit": 50,
+      "isActive": true,
+      "expiresAt": "2026-05-30"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-001",
+      "author": "Sunita Reddy",
+      "city": "Hyderabad",
+      "rating": 5,
+      "comment": "The Royal Bridal Kundan Choker set is truly mesmerizing! The craftsmanship and South Sea pearl finishing exceeded our expectations for my daughter’s muhurtham. Fast UPI verification and insured delivery.",
+      "verifiedPurchase": true,
+      "jewelleryItem": "Royal Bridal Kundan & Polki Choker Set",
+      "date": "2026-02-18"
+    },
+    {
+      "id": "rev-002",
+      "author": "Rajesh & Pooja Varma",
+      "city": "Bengaluru",
+      "rating": 5,
+      "comment": "Bought the 1.20ct Solitaire ring. Having the IGI diamond certificate and testing it at our family jeweller confirmed 100% genuine purity. The 3D interactive viewer on the website helped us examine every facet!",
+      "verifiedPurchase": true,
+      "jewelleryItem": "Eternal Solitaire Diamond Ring (1.20 Carat)",
+      "date": "2026-02-22"
+    },
+    {
+      "id": "rev-003",
+      "author": "Meenakshi Sundaram",
+      "city": "Chennai",
+      "rating": 5,
+      "comment": "The Nakshi Antique Jhumkas have such royal weight and pristine 916 hallmarking. Thank you MPR Jewellers for preserving traditional Indian temple artistry.",
+      "verifiedPurchase": true,
+      "jewelleryItem": "Heritage Nakshi Antique Jhumkas",
+      "date": "2026-02-24"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1792641829976-b13j",
+      "timestamp": "2026-10-22T04:03:49.976Z",
+      "actor": "bhavyakthmadanambeti@gmail.com",
+      "action": "OWNER_LOGIN_SUCCESS",
+      "details": "Owner logged into administration portal"
+    },
+    {
+      "id": "log-1792640292964-r9zn",
+      "timestamp": "2026-10-22T03:38:12.964Z",
+      "actor": "bhavyakthmadanambeti@gmail.com",
+      "action": "OWNER_LOGIN_SUCCESS",
+      "details": "Owner logged into administration portal"
+    },
+    {
+      "id": "log-001",
+      "timestamp": "2026-10-22T03:38:04.631Z",
+      "actor": "System Setup",
+      "action": "SYSTEM_INITIALIZED",
+      "details": "MPR JEWELLERY store initial database established with BIS 916 certified inventory."
+    }
+  ]
+}

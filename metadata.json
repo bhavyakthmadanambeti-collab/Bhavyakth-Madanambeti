@@ -1,0 +1,6 @@
+{
+  "name": "MPR JEWELLERY",
+  "description": "Luxurious Indian online jewellery shopping experience featuring authentic 22K/18K Gold, 925 Sterling Silver, and Certified Diamond collections with seamless UPI payments, 3D interactive viewer, and password-protected Owner Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

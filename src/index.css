@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-chocolate: #23140C;
+    --brand-chocolate-dark: #170B05;
+    --brand-chocolate-light: #3D2214;
+    --brand-ivory: #FDFBF7;
+    --brand-cream: #F8F3EA;
+    --brand-gold: #C69A39;
+    --brand-gold-light: #E7C979;
+    --brand-gold-dark: #9A7420;
+    --brand-gold-accent: #E5B348;
+  }
+
+  body {
+    background-color: var(--brand-ivory);
+    color: #23140C;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-cinzel {
+    font-family: 'Cinzel', Georgia, serif;
+  }
+
+  .font-playfair {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #F4EFE6;
+}
+::-webkit-scrollbar-thumb {
+  background: #C69A39;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9A7420;
+}
+
+/* Gold Gradient Shimmer */
+.gold-gradient-text {
+  background: linear-gradient(135deg, #F3E5AB 0%, #D4AF37 50%, #AA7A1E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-border-gradient {
+  border-image: linear-gradient(135deg, #D4AF37, #F3E5AB, #C5A059) 1;
+}
+
+/* Print styling for invoice generation */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #invoice-printable, #invoice-printable * {
+    visibility: visible;
+  }
+  #invoice-printable {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    background: white !important;
+    color: black !important;
+  }
+}
